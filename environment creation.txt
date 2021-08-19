@@ -1,0 +1,5 @@
+Problem Statement: Find the car price of used cars.
+
+1. Created a new environment (car_prediction) --> python=3.7
+2. Changed the working directory and launched the jupyterlab/notebook
+3. 
