@@ -1,3 +1,6 @@
+# Demo
+https://github.com/KR-16/Car-Price-Prediction/assets/73049486/750caa59-37ca-4274-b463-e7cdb97cf63c
+
 # Car Price Prediction Flask App
 This repository contains a Flask application that predicts the price of cars using random forest regression.
 
@@ -32,7 +35,4 @@ The Flask application will then use the random forest regression model to predic
 I had implemented the project with the help of Krish Naik youtube videos.
 Credit - Krish Naik
 
-
-
-https://github.com/KR-16/Car-Price-Prediction/assets/73049486/750caa59-37ca-4274-b463-e7cdb97cf63c
 
