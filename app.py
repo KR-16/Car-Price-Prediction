@@ -52,7 +52,7 @@ def predict():
         calculate_output = round(prediction[0],2)
 
         if calculate_output < 0:
-            return render_template("main.html",prediction_texts = "You will not be able to seel these car")
+            return render_template("main.html",prediction_texts = "You will not be able to Sale these car")
         else:
             return render_template("main.html",prediction_texts = "Car can be retailed at a price of {}".format(calculate_output))
 
