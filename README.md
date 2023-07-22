@@ -7,11 +7,11 @@ Install the dependencies.
 Run the app.py script to start the Flask application.
 
 # Dependencies
-Python 3.8+
-Flask
-NumPy
-Pandas
-Scikit-learn
+* Python 3.8+
+* Flask
+* NumPy
+* Pandas
+* Scikit-learn
 
 # Usage
 The Flask application is hosted at localhost:5000. You can make predictions by entering the details of a car in the form.
@@ -20,11 +20,11 @@ The Flask application is hosted at localhost:5000. You can make predictions by e
 
 * Year
 * Showroom Price
-Kilometers Driven
-Fuel type
-Seller type
-Transmission
-Number of owners
+* Kilometers Driven
+* Fuel type
+* Seller type
+* Transmission
+* Number of owners
 The Flask application will then use the random forest regression model to predict the price of the car.
 
 I had implemented the project with the help of Krish Naik youtube videos.
