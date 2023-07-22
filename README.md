@@ -18,8 +18,8 @@ The Flask application is hosted at localhost:5000. You can make predictions by e
 
 # The features that you can enter include:
 
-Year
-Showroom Price
+* Year
+* Showroom Price
 Kilometers Driven
 Fuel type
 Seller type
