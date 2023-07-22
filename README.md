@@ -25,7 +25,9 @@ The Flask application is hosted at localhost:5000. You can make predictions by e
 * Seller type
 * Transmission
 * Number of owners
+
 The Flask application will then use the random forest regression model to predict the price of the car.
+
 
 I had implemented the project with the help of Krish Naik youtube videos.
 Credit - Krish Naik
